@@ -91,6 +91,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="cursor.cur" />
+    <None Include="images\paint bucket.cur" />
+    <None Include="images\pen.cur" />
+    <None Include="images\rubber.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\app-icon.ico" />
+    <Image Include="images\paint bucket.png" />
+    <Image Include="toolbar.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,5 +13,17 @@ namespace main_window
 	DrawShapeFunction DrawShape = NULL;
 }
 
+namespace drawings
+{
+	COLORREF picked_color(0x000000);
+	int pen_width(1);
+	INT16 active_tool(constants::drawing_tools::DT_DEFAULT);
+}
+
+namespace EnhMetaFile
+{
+	HDC hDC;
+	HENHMETAFILE handle;
+}
 
 #endif

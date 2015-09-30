@@ -42,5 +42,28 @@
     <None Include="cursor.cur">
       <Filter>Файлы ресурсов</Filter>
     </None>
+    <None Include="images\pen.cur">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="images\pen.cur">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="images\rubber.cur">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="images\paint bucket.cur">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\app-icon.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="toolbar.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="images\paint bucket.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
   </ItemGroup>
 </Project>
